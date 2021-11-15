@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/tuvm/hello-cli/issues"
   },
-  "homepage": "https://github.com/tuvm/hello-cli#readme"
+  "homepage": "https://github.com/tuvm/hello-cli#readme",
+  "dependencies": {
+    "yargs": "^17.2.1"
+  }
 }

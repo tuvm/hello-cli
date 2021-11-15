@@ -36,3 +36,9 @@ npm uninstall -g hello-cli
 ```console
 npm ls -g --depth=0
 ```
+
+## 2. Add arguments
+
+```console
+npm install yargs
+```
